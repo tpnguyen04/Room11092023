@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room11092023</string>
+    <string name="start_time">Start: %s</string>
+    <string name="end_time">End: %s</string>
+</resources>
